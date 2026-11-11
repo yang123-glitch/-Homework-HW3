@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kingm\\Desktop\\\u5B78\u6821\\HW_3\\P20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CD5415-8A62-4904-BEF3-2596752FA5B3}|P20.vcxproj|C:\\Users\\kingm\\Desktop\\\u5B78\u6821\\HW_3\\P20\\P20.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9CD5415-8A62-4904-BEF3-2596752FA5B3}|P20.vcxproj|solutionrelative:P20.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P20.cpp",
+              "DocumentMoniker": "C:\\Users\\kingm\\Desktop\\\u5B78\u6821\\HW_3\\P20\\P20.cpp",
+              "RelativeDocumentMoniker": "P20.cpp",
+              "ToolTip": "C:\\Users\\kingm\\Desktop\\\u5B78\u6821\\HW_3\\P20\\P20.cpp",
+              "RelativeToolTip": "P20.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-11T14:54:59.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

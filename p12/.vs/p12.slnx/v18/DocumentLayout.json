@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kingm\\Desktop\\\u5B78\u6821\\HW_3\\p12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8D556E-62A7-4451-AA9B-5F0B1318CA05}|p12.vcxproj|C:\\Users\\kingm\\Desktop\\\u5B78\u6821\\HW_3\\p12\\p12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F8D556E-62A7-4451-AA9B-5F0B1318CA05}|p12.vcxproj|solutionrelative:p12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "p12.cpp",
+              "DocumentMoniker": "C:\\Users\\kingm\\Desktop\\\u5B78\u6821\\HW_3\\p12\\p12.cpp",
+              "RelativeDocumentMoniker": "p12.cpp",
+              "ToolTip": "C:\\Users\\kingm\\Desktop\\\u5B78\u6821\\HW_3\\p12\\p12.cpp",
+              "RelativeToolTip": "p12.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-11T13:43:27.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
